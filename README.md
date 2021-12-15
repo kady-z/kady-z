@@ -34,3 +34,13 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/demonicirfan/Hackrack/issues/1) in [demonicirfan/Hackrack](https://github.com/demonicirfan/Hackrack)
+2. ❗️ Closed issue [#4](https://github.com/kady-z/hello-world/issues/4) in [kady-z/hello-world](https://github.com/kady-z/hello-world)
+3. 💪 Opened PR [#4](https://github.com/demonicirfan/Hackrack/pull/4) in [demonicirfan/Hackrack](https://github.com/demonicirfan/Hackrack)
+4. ❗️ Opened issue [#4](https://github.com/kady-z/hello-world/issues/4) in [kady-z/hello-world](https://github.com/kady-z/hello-world)
+5. 🎉 Merged PR [#3](https://github.com/kady-z/hello-world/pull/3) in [kady-z/hello-world](https://github.com/kady-z/hello-world)
+6. 💪 Opened PR [#3](https://github.com/kady-z/hello-world/pull/3) in [kady-z/hello-world](https://github.com/kady-z/hello-world)
+7. 🎉 Merged PR [#2](https://github.com/kady-z/hello-world/pull/2) in [kady-z/hello-world](https://github.com/kady-z/hello-world)
+8. 💪 Opened PR [#2](https://github.com/kady-z/hello-world/pull/2) in [kady-z/hello-world](https://github.com/kady-z/hello-world)
+9. 🗣 Commented on [#1](https://github.com/demonicirfan/Hackrack/issues/1) in [demonicirfan/Hackrack](https://github.com/demonicirfan/Hackrack)
+<!--END_SECTION:activity-->
