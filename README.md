@@ -31,10 +31,6 @@
 
 
 ## Stats 📊
-[![My GitHub Insights](https://activity-graph.herokuapp.com/graph?username=kady-z&theme=xcode)](https://git.io/kady-z&border_radius=5px)
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=kady-z&count_private=true&show_icons=true&theme=cobalt&border_radius=5px)
- <p> <img width="49%"" src="https://github-readme-streak-stats.herokuapp.com/?user=kady-z&theme=tokyonight" /></p>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kady-z&layout=compact)](https://github.com/kady-z/github-readme-stats)
+![](./profile-3d-contrib/profile-season-animate.svg)
 
 <!--START_SECTION:activity-->
