@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayush
+- 👋 Hi humans!! I’m Ayush
 - 👀 I’m interested in open source.
 - 🌱 I’m currently learning about open source contribution.
 - 💞️ I’m looking to collaborate on projects.
