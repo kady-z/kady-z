@@ -40,4 +40,6 @@
 </p>
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
-<!-- START_SECTION:activity -->
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
