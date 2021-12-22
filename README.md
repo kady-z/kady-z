@@ -43,13 +43,13 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/demonicirfan/Hackrack.in/issues/1) in [demonicirfan/Hackrack.in](https://github.com/demonicirfan/Hackrack.in)
-2. 🎉 Merged PR [#1](https://github.com/kady-z/Product-Landing-page/pull/1) in [kady-z/Product-Landing-page](https://github.com/kady-z/Product-Landing-page)
-3. 💪 Opened PR [#1](https://github.com/kady-z/Product-Landing-page/pull/1) in [kady-z/Product-Landing-page](https://github.com/kady-z/Product-Landing-page)
-4. 🗣 Commented on [#1](https://github.com/demonicirfan/Hackrack/issues/1) in [demonicirfan/Hackrack](https://github.com/demonicirfan/Hackrack)
-5. ❗️ Closed issue [#4](https://github.com/kady-z/hello-world/issues/4) in [kady-z/hello-world](https://github.com/kady-z/hello-world)
-6. 💪 Opened PR [#4](https://github.com/demonicirfan/Hackrack/pull/4) in [demonicirfan/Hackrack](https://github.com/demonicirfan/Hackrack)
-7. ❗️ Opened issue [#4](https://github.com/kady-z/hello-world/issues/4) in [kady-z/hello-world](https://github.com/kady-z/hello-world)
-8. 🎉 Merged PR [#3](https://github.com/kady-z/hello-world/pull/3) in [kady-z/hello-world](https://github.com/kady-z/hello-world)
-9. 💪 Opened PR [#3](https://github.com/kady-z/hello-world/pull/3) in [kady-z/hello-world](https://github.com/kady-z/hello-world)
+2. 🗣 Commented on [#1](https://github.com/demonicirfan/Hackrack.in/issues/1) in [demonicirfan/Hackrack.in](https://github.com/demonicirfan/Hackrack.in)
+3. 🗣 Commented on [#1](https://github.com/demonicirfan/Hackrack.in/issues/1) in [demonicirfan/Hackrack.in](https://github.com/demonicirfan/Hackrack.in)
+4. 🎉 Merged PR [#1](https://github.com/kady-z/Product-Landing-page/pull/1) in [kady-z/Product-Landing-page](https://github.com/kady-z/Product-Landing-page)
+5. 💪 Opened PR [#1](https://github.com/kady-z/Product-Landing-page/pull/1) in [kady-z/Product-Landing-page](https://github.com/kady-z/Product-Landing-page)
+6. 🗣 Commented on [#1](https://github.com/demonicirfan/Hackrack/issues/1) in [demonicirfan/Hackrack](https://github.com/demonicirfan/Hackrack)
+7. ❗️ Closed issue [#4](https://github.com/kady-z/hello-world/issues/4) in [kady-z/hello-world](https://github.com/kady-z/hello-world)
+8. 💪 Opened PR [#4](https://github.com/demonicirfan/Hackrack/pull/4) in [demonicirfan/Hackrack](https://github.com/demonicirfan/Hackrack)
+9. ❗️ Opened issue [#4](https://github.com/kady-z/hello-world/issues/4) in [kady-z/hello-world](https://github.com/kady-z/hello-world)
 <!--END_SECTION:activity-->
 <!--START_SECTION:activity-->
