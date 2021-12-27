@@ -1,7 +1,7 @@
 ## Hello Humans! I am Ayush. 👋
 
 - I am Ayush Kumar Dubey 
-- Currently in II year of my B.Tech (IT). 
+- Currently in II year of my B.Tech.
 - I am Front End Web Dev. 
 - I am open to collaborate on projects.
 
