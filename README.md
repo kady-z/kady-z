@@ -42,14 +42,14 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/demonicirfan/Hackrack.in/pull/10) in [demonicirfan/Hackrack.in](https://github.com/demonicirfan/Hackrack.in)
-2. 🎉 Merged PR [#1](https://github.com/kady-z/Hackrack.in/pull/1) in [kady-z/Hackrack.in](https://github.com/kady-z/Hackrack.in)
-3. 💪 Opened PR [#1](https://github.com/kady-z/Hackrack.in/pull/1) in [kady-z/Hackrack.in](https://github.com/kady-z/Hackrack.in)
-4. 💪 Opened PR [#6](https://github.com/demonicirfan/Hackrack.in/pull/6) in [demonicirfan/Hackrack.in](https://github.com/demonicirfan/Hackrack.in)
-5. 💪 Opened PR [#4](https://github.com/demonicirfan/Hackrack.in/pull/4) in [demonicirfan/Hackrack.in](https://github.com/demonicirfan/Hackrack.in)
-6. 🗣 Commented on [#1](https://github.com/demonicirfan/Hackrack.in/issues/1) in [demonicirfan/Hackrack.in](https://github.com/demonicirfan/Hackrack.in)
+1. 🗣 Commented on [#11](https://github.com/demonicirfan/Hackrack.in/issues/11) in [demonicirfan/Hackrack.in](https://github.com/demonicirfan/Hackrack.in)
+2. 💪 Opened PR [#10](https://github.com/demonicirfan/Hackrack.in/pull/10) in [demonicirfan/Hackrack.in](https://github.com/demonicirfan/Hackrack.in)
+3. 🎉 Merged PR [#1](https://github.com/kady-z/Hackrack.in/pull/1) in [kady-z/Hackrack.in](https://github.com/kady-z/Hackrack.in)
+4. 💪 Opened PR [#1](https://github.com/kady-z/Hackrack.in/pull/1) in [kady-z/Hackrack.in](https://github.com/kady-z/Hackrack.in)
+5. 💪 Opened PR [#6](https://github.com/demonicirfan/Hackrack.in/pull/6) in [demonicirfan/Hackrack.in](https://github.com/demonicirfan/Hackrack.in)
+6. 💪 Opened PR [#4](https://github.com/demonicirfan/Hackrack.in/pull/4) in [demonicirfan/Hackrack.in](https://github.com/demonicirfan/Hackrack.in)
 7. 🗣 Commented on [#1](https://github.com/demonicirfan/Hackrack.in/issues/1) in [demonicirfan/Hackrack.in](https://github.com/demonicirfan/Hackrack.in)
 8. 🗣 Commented on [#1](https://github.com/demonicirfan/Hackrack.in/issues/1) in [demonicirfan/Hackrack.in](https://github.com/demonicirfan/Hackrack.in)
-9. 🎉 Merged PR [#1](https://github.com/kady-z/Product-Landing-page/pull/1) in [kady-z/Product-Landing-page](https://github.com/kady-z/Product-Landing-page)
+9. 🗣 Commented on [#1](https://github.com/demonicirfan/Hackrack.in/issues/1) in [demonicirfan/Hackrack.in](https://github.com/demonicirfan/Hackrack.in)
 <!--END_SECTION:activity-->
 <!--START_SECTION:activity-->
