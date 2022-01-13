@@ -6,7 +6,6 @@
 - I am open to collaborate on projects.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-AyushKumarDubey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushkudubey/)](https://www.linkedin.com/in/ayushkudubey/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0051.ayush@gmail.com)](mailto:0051.ayush@gmail.com)
 
 ## Tech I know 👩‍💻 
