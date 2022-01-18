@@ -22,6 +22,7 @@
 ### Libraries & Framework :
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-React-563D7C?style=flat-square&logo=react)
 
 ### Tools:
 
