@@ -22,7 +22,9 @@
 ### Libraries & Framework :
 
 ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![NodeJS](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat-square&logo=bootstrap)
 
 ### Tools:
 
