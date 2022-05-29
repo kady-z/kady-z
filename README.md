@@ -41,9 +41,9 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/RahulSinghklr/Alumini/pull/2) in [RahulSinghklr/Alumini](https://github.com/RahulSinghklr/Alumini)
-2. 💪 Opened PR [#1](https://github.com/RahulSinghklr/Alumini/pull/1) in [RahulSinghklr/Alumini](https://github.com/RahulSinghklr/Alumini)
-3. 💪 Opened PR [#22](https://github.com/demonicirfan/Hackrack.in/pull/22) in [demonicirfan/Hackrack.in](https://github.com/demonicirfan/Hackrack.in)
+1. 💪 Opened PR [#3](https://github.com/RahulSinghklr/Alumini/pull/3) in [RahulSinghklr/Alumini](https://github.com/RahulSinghklr/Alumini)
+2. 💪 Opened PR [#2](https://github.com/RahulSinghklr/Alumini/pull/2) in [RahulSinghklr/Alumini](https://github.com/RahulSinghklr/Alumini)
+3. 💪 Opened PR [#1](https://github.com/RahulSinghklr/Alumini/pull/1) in [RahulSinghklr/Alumini](https://github.com/RahulSinghklr/Alumini)
 4. 💪 Opened PR [#21](https://github.com/demonicirfan/Hackrack.in/pull/21) in [demonicirfan/Hackrack.in](https://github.com/demonicirfan/Hackrack.in)
 5. 💪 Opened PR [#18](https://github.com/demonicirfan/Hackrack.in/pull/18) in [demonicirfan/Hackrack.in](https://github.com/demonicirfan/Hackrack.in)
 6. 🗣 Commented on [#11](https://github.com/demonicirfan/Hackrack.in/issues/11) in [demonicirfan/Hackrack.in](https://github.com/demonicirfan/Hackrack.in)
