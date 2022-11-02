@@ -41,10 +41,10 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/kady-z/Solana-workshop-projectI/pull/1) in [kady-z/Solana-workshop-projectI](https://github.com/kady-z/Solana-workshop-projectI)
-2. 💪 Opened PR [#1](https://github.com/kady-z/Solana-workshop-projectI/pull/1) in [kady-z/Solana-workshop-projectI](https://github.com/kady-z/Solana-workshop-projectI)
-3. 💪 Opened PR [#2](https://github.com/RahulSinghklr/Alumini/pull/2) in [RahulSinghklr/Alumini](https://github.com/RahulSinghklr/Alumini)
-4. 💪 Opened PR [#1](https://github.com/RahulSinghklr/Alumini/pull/1) in [RahulSinghklr/Alumini](https://github.com/RahulSinghklr/Alumini)
+1. 🎉 Merged PR [#2](https://github.com/kady-z/Solana-workshop-projectI/pull/2) in [kady-z/Solana-workshop-projectI](https://github.com/kady-z/Solana-workshop-projectI)
+2. 💪 Opened PR [#2](https://github.com/kady-z/Solana-workshop-projectI/pull/2) in [kady-z/Solana-workshop-projectI](https://github.com/kady-z/Solana-workshop-projectI)
+3. 🎉 Merged PR [#1](https://github.com/kady-z/Solana-workshop-projectI/pull/1) in [kady-z/Solana-workshop-projectI](https://github.com/kady-z/Solana-workshop-projectI)
+4. 💪 Opened PR [#1](https://github.com/kady-z/Solana-workshop-projectI/pull/1) in [kady-z/Solana-workshop-projectI](https://github.com/kady-z/Solana-workshop-projectI)
 5. 💪 Opened PR [#18](https://github.com/demonicirfan/Hackrack.in/pull/18) in [demonicirfan/Hackrack.in](https://github.com/demonicirfan/Hackrack.in)
 6. 🗣 Commented on [#11](https://github.com/demonicirfan/Hackrack.in/issues/11) in [demonicirfan/Hackrack.in](https://github.com/demonicirfan/Hackrack.in)
 7. 🗣 Commented on [#11](https://github.com/demonicirfan/Hackrack.in/issues/11) in [demonicirfan/Hackrack.in](https://github.com/demonicirfan/Hackrack.in)
