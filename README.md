@@ -1,8 +1,8 @@
 ## Hello Humans! I am Ayush. 👋
 
 - I am Ayush Kumar Dubey 
-- Currently in II year of my B.Tech.
-- I am Front End Web Dev. 
+- Currently in III year of my B.Tech.
+- I am Front End Web Dev ( React +  Node + MongoDB). 
 - I am open to collaborate on projects.
 
 
