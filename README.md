@@ -113,8 +113,8 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/kady-z/solana-workshop-project-III/pull/1) in [kady-z/solana-workshop-project-III](https://github.com/kady-z/solana-workshop-project-III)
-2. 💪 Opened PR [#1](https://github.com/kady-z/solana-workshop-project-III/pull/1) in [kady-z/solana-workshop-project-III](https://github.com/kady-z/solana-workshop-project-III)
+1. 💪 Opened PR [#30](https://github.com/gibwork/web3-devs/pull/30) in [gibwork/web3-devs](https://github.com/gibwork/web3-devs)
+2. 💪 Opened PR [#29](https://github.com/gibwork/web3-devs/pull/29) in [gibwork/web3-devs](https://github.com/gibwork/web3-devs)
 3. 🎉 Merged PR [#2](https://github.com/kady-z/Solana-workshop-projectI/pull/2) in [kady-z/Solana-workshop-projectI](https://github.com/kady-z/Solana-workshop-projectI)
 4. 💪 Opened PR [#2](https://github.com/kady-z/Solana-workshop-projectI/pull/2) in [kady-z/Solana-workshop-projectI](https://github.com/kady-z/Solana-workshop-projectI)
 5. 🎉 Merged PR [#1](https://github.com/kady-z/Solana-workshop-projectI/pull/1) in [kady-z/Solana-workshop-projectI](https://github.com/kady-z/Solana-workshop-projectI)
