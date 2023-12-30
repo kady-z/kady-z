@@ -1,36 +1,108 @@
-## Hello Humans! I am Ayush. 👋
+## Hello Humans! I am a results-Driven Full Stack Developer | Collaborative Innovator - APPLICATION DEV @ ORACLE. 👋
 
 - I am Ayush Kumar Dubey 
-- Currently in III year of my B.Tech.
-- I am Front End Web Dev ( React +  Node + MongoDB). 
+- Currently in Final year of my B.Tech - Information Technology.
+- I am Full Stack Web Dev (frontend + backend + DevOps). 
 - I am open to collaborate on projects.
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0051.ayush@gmail.com)](mailto:0051.ayush@gmail.com)
 
-## Tech I know 👩‍💻 
+## Tech I know 👩‍💻
 
-### Language :
+## Programming Languages:
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-E34A86?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+## Web Development:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
+![OpenGL](https://img.shields.io/badge/-OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### Libraries & Framework :
+## Cloud and DevOps:
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel%20-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
-![NodeJS](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat-square&logo=bootstrap)
+## Databases:
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### Tools:
+## AI and Machine Learning:
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
+## Tools:
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 
+## Network Tools:
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-4F5256?style=for-the-badge&logo=nmap&logoColor=white)
+![tcpdump](https://img.shields.io/badge/-tcpdump-4A4945?style=for-the-badge&logo=tcpdump&logoColor=white)
+![Netcat](https://img.shields.io/badge/-Netcat-0478A1?style=for-the-badge&logo=gnu&logoColor=white)
+![Hping](https://img.shields.io/badge/-Hping-FF7D00?style=for-the-badge&logo=hping&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/-Aircrack--ng-0A9DF3?style=for-the-badge&logo=wifi&logoColor=white)
+![WiFite](https://img.shields.io/badge/-WiFite-000000?style=for-the-badge&logo=wifi&logoColor=white)
+
+## InfoSec Tools:
+![Metasploit](https://img.shields.io/badge/-Metasploit-E2231A?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF4500?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Nessus](https://img.shields.io/badge/-Nessus-048B9A?style=for-the-badge&logo=nessus&logoColor=white)
+![Snort](https://img.shields.io/badge/-Snort-CC0033?style=for-the-badge&logo=snort&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-4F5256?style=for-the-badge&logo=nmap&logoColor=white)
+![Ghidra](https://img.shields.io/badge/-Ghidra-48A5CF?style=for-the-badge&logo=ghidra&logoColor=white)
+![YARA](https://img.shields.io/badge/-YARA-000000?style=for-the-badge&logo=yara&logoColor=white)
+![Radare2](https://img.shields.io/badge/-Radare2-616161?style=for-the-badge&logo=radare2&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-2B57D1?style=for-the-badge&logo=owasp&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-2C2A29?style=for-the-badge&logo=ripper&logoColor=white)
+
+
+## Soft Skills:
+- Strong Problem-Solving Skills
+- Excellent Communication Skills
+- Collaboration and Teamwork
+- Leadership Skills
+- Adaptability and Learning Agility
+- Emotional Intelligence
+
+## Additional:
+- Design Patterns and Architectural Patterns
+- Code Review and Mentorship Experience
+- Performance Optimization
+- Security Best Practices
+- Knowledge of Software Development Life Cycle (SDLC)
 
 ## Stats 📊
 
@@ -41,7 +113,7 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/gibwork/web3-devs/pull/29) in [gibwork/web3-devs](https://github.com/gibwork/web3-devs)
+1. 🎉 Merged PR [#1](https://github.com/kady-z/solana-workshop-project-III/pull/1) in [kady-z/solana-workshop-project-III](https://github.com/kady-z/solana-workshop-project-III)
 2. 💪 Opened PR [#1](https://github.com/kady-z/solana-workshop-project-III/pull/1) in [kady-z/solana-workshop-project-III](https://github.com/kady-z/solana-workshop-project-III)
 3. 🎉 Merged PR [#2](https://github.com/kady-z/Solana-workshop-projectI/pull/2) in [kady-z/Solana-workshop-projectI](https://github.com/kady-z/Solana-workshop-projectI)
 4. 💪 Opened PR [#2](https://github.com/kady-z/Solana-workshop-projectI/pull/2) in [kady-z/Solana-workshop-projectI](https://github.com/kady-z/Solana-workshop-projectI)
