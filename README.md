@@ -1,7 +1,7 @@
 ## Hello Humans! I am a results-Driven Full Stack Developer | Collaborative Innovator - APPLICATION DEV @ ORACLE. 👋
 
 - I am Ayush Kumar Dubey 
-- Currently in Final year of my B.Tech - Information Technology.
+- Currently working as Individual contributor at Oracle India.
 - I am Full Stack Web Dev (frontend + backend + DevOps). 
 - I am open to collaborate on projects.
 
