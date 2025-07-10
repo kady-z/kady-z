@@ -18,41 +18,26 @@
 
 ## Web Development:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ## Cloud and DevOps:
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel%20-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## Databases:
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## AI and Machine Learning:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -71,21 +56,12 @@
 ![Nmap](https://img.shields.io/badge/-Nmap-4F5256?style=for-the-badge&logo=nmap&logoColor=white)
 ![tcpdump](https://img.shields.io/badge/-tcpdump-4A4945?style=for-the-badge&logo=tcpdump&logoColor=white)
 ![Netcat](https://img.shields.io/badge/-Netcat-0478A1?style=for-the-badge&logo=gnu&logoColor=white)
-![Hping](https://img.shields.io/badge/-Hping-FF7D00?style=for-the-badge&logo=hping&logoColor=white)
-![Aircrack-ng](https://img.shields.io/badge/-Aircrack--ng-0A9DF3?style=for-the-badge&logo=wifi&logoColor=white)
-![WiFite](https://img.shields.io/badge/-WiFite-000000?style=for-the-badge&logo=wifi&logoColor=white)
 
 ## InfoSec Tools:
 ![Metasploit](https://img.shields.io/badge/-Metasploit-E2231A?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF4500?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Nessus](https://img.shields.io/badge/-Nessus-048B9A?style=for-the-badge&logo=nessus&logoColor=white)
-![Snort](https://img.shields.io/badge/-Snort-CC0033?style=for-the-badge&logo=snort&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-4F5256?style=for-the-badge&logo=nmap&logoColor=white)
-![Ghidra](https://img.shields.io/badge/-Ghidra-48A5CF?style=for-the-badge&logo=ghidra&logoColor=white)
-![YARA](https://img.shields.io/badge/-YARA-000000?style=for-the-badge&logo=yara&logoColor=white)
-![Radare2](https://img.shields.io/badge/-Radare2-616161?style=for-the-badge&logo=radare2&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-2B57D1?style=for-the-badge&logo=owasp&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-2C2A29?style=for-the-badge&logo=ripper&logoColor=white)
 
 
