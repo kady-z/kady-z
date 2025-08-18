@@ -89,8 +89,8 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#240](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/pull/240) in [microsoft/Generative-AI-for-beginners-dotnet](https://github.com/microsoft/Generative-AI-for-beginners-dotnet)
-2. ❗ Opened issue [#27](https://github.com/markjprice/cs12dotnet8/issues/27) in [markjprice/cs12dotnet8](https://github.com/markjprice/cs12dotnet8)
+1. 🗣 Commented on [#240](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/pull/240#issuecomment-3195476764) in [microsoft/Generative-AI-for-beginners-dotnet](https://github.com/microsoft/Generative-AI-for-beginners-dotnet)
+2. 💪 Opened PR [#240](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/pull/240) in [microsoft/Generative-AI-for-beginners-dotnet](https://github.com/microsoft/Generative-AI-for-beginners-dotnet)
 3. 💪 Opened PR [#30](https://github.com/gibwork/web3-devs/pull/30) in [gibwork/web3-devs](https://github.com/gibwork/web3-devs)
 4. 💪 Opened PR [#29](https://github.com/gibwork/web3-devs/pull/29) in [gibwork/web3-devs](https://github.com/gibwork/web3-devs)
 5. 🎉 Merged PR [#1](https://github.com/kady-z/Solana-workshop-projectI/pull/1) in [kady-z/Solana-workshop-projectI](https://github.com/kady-z/Solana-workshop-projectI)
