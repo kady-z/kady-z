@@ -89,7 +89,7 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/markjprice/cs12dotnet8/issues/27#issuecomment-1994616885) in [markjprice/cs12dotnet8](https://github.com/markjprice/cs12dotnet8)
+1. 💪 Opened PR [#240](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/pull/240) in [microsoft/Generative-AI-for-beginners-dotnet](https://github.com/microsoft/Generative-AI-for-beginners-dotnet)
 2. ❗ Opened issue [#27](https://github.com/markjprice/cs12dotnet8/issues/27) in [markjprice/cs12dotnet8](https://github.com/markjprice/cs12dotnet8)
 3. 💪 Opened PR [#30](https://github.com/gibwork/web3-devs/pull/30) in [gibwork/web3-devs](https://github.com/gibwork/web3-devs)
 4. 💪 Opened PR [#29](https://github.com/gibwork/web3-devs/pull/29) in [gibwork/web3-devs](https://github.com/gibwork/web3-devs)
